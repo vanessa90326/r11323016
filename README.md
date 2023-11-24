@@ -1,10 +1,15 @@
 # ECON5166: Programming Homework by r11323016
-
 ## Hotel Data Dashboard
 
 This project is a web application that fetches hotel data from Booking.com using a web crawler and displays it in a dashboard using Dash.
 
 ### Contents
+
+- [Demo](#demo)
+- [Problem Statement](#problem-statement)
+- [Usage](#usage)
+- [File Descriptions](#file-descriptions)
+- [Dependencies](#dependencies)
 
 
 ### Demo
@@ -31,7 +36,7 @@ For detailed information about the problem statement and requirements, please re
     python app.py
     ```
 
-
+   Open a web browser and go to [http://127.0.0.1:8050/](http://127.0.0.1:8050/) to view the dashboard.
 
 ### File Descriptions
 
