@@ -13,7 +13,8 @@ This project is a web application that fetches hotel data from Booking.com using
 
 
 ### Demo
-
+![Demo GIF]([URL](https://github.com/vanessa90326/r11323016/blob/main/demo_screencast.gif?raw=true))
+![Demo](demo.png)
 
 
 ### Problem Statement
