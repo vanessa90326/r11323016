@@ -13,7 +13,7 @@ This project is a web application that fetches hotel data from Booking.com using
 
 
 ### Demo
-![demo_screencast.gif](demo_screencast.gif)
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/demo_screencast]([https://youtu.be/7EuboEg7a2w](https://youtu.be/7EuboEg7a2w))" frameborder="0" allowfullscreen></iframe>
 ![Demo](demo.png)
 
 
