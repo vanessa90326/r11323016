@@ -1,5 +1,4 @@
-# r11323016
-ECON5166: Programming Homework
+# ECON5166: Programming Homework by r11323016
 
 ## Hotel Data Dashboard
 
